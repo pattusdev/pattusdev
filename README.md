@@ -7,4 +7,4 @@
 
 • 🌱 I’m currently learning ... BSc. Software Engineering
 
-• Check My Website: https://pattusdev.github.io/cv/
+• My Landing Page: https://pattusdev.github.io/cv/
